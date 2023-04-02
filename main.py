@@ -1,3 +1,2 @@
-print("hello world")
-
-print9"ho code khóa úa đi"
+print("hello world'")
+print("hello world1")
